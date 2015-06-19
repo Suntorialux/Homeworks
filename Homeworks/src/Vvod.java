@@ -11,6 +11,8 @@ public class Vvod {
         n = scan.nextInt();
         System.err.println("Введите число M");
         m =scan.nextInt();
+        x =scan.nextInt();
+        System.out.println(x);
         System.out.print("N=");
         System.out.println(n);
         System.out.print("M=");
